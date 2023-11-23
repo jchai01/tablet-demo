@@ -1,4 +1,4 @@
-@font-face {
+pctwireless.jpeg@font-face {
   font-family: manropeRegular;
   src: url('../tablet_assets/fonts/Manrope-Regular.ttf');
 }
@@ -85,7 +85,7 @@
 }
 
 #logo {
-  width: 25%;
+  width: 20%;
   margin-top: 15rem;
 }
 

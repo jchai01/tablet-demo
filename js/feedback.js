@@ -1,8 +1,8 @@
-setTimeout(
-    () => {
-        window.location.replace("home.html");
-    }, 5000
-);
+// setTimeout(
+//     () => {
+//         window.location.replace("home.html");
+//     }, 5000
+// );
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
