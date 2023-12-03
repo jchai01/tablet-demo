@@ -1,6 +1,6 @@
 setTimeout(
     () => {
-        window.location.replace("home.html");
+        window.location.replace("feedback.html");
     }, 3000
 );
 
